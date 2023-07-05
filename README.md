@@ -1,2 +1,2 @@
-# E2E test with Cypress and GitHub Actions
+# E2E test with Cypress and GitHub Actions 
 
